@@ -18,6 +18,7 @@ Breakout Blitz
 * Menu animations
 * Sounds/Music
 * Uses Unreal physics
+* Leaderboards for all levels
 
 ### Built With
 [![Unreal]][Unreal-url]
